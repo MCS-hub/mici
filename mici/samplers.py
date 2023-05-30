@@ -78,7 +78,7 @@ def _get_valid_filename(string):
     """Generate a valid filename from a string.
 
     Strips all characters which are not alphanumeric or a period (.), dash (-)
-    or underscore (_).
+    or underscore (_). 
 
     Based on https://stackoverflow.com/a/295146/4798943
 
